@@ -1,0 +1,11 @@
+c:\users\eatonadmin\source\repos\aerolok\aerolok\bin\Release\netcoreapp2.0\aerolok.deps.json
+c:\users\eatonadmin\source\repos\aerolok\aerolok\bin\Release\netcoreapp2.0\aerolok.runtimeconfig.json
+c:\users\eatonadmin\source\repos\aerolok\aerolok\bin\Release\netcoreapp2.0\aerolok.runtimeconfig.dev.json
+c:\users\eatonadmin\source\repos\aerolok\aerolok\bin\Release\netcoreapp2.0\aerolok.dll
+c:\users\eatonadmin\source\repos\aerolok\aerolok\bin\Release\netcoreapp2.0\aerolok.pdb
+c:\users\eatonadmin\source\repos\aerolok\aerolok\obj\Release\netcoreapp2.0\aerolok.csproj.CoreCompileInputs.cache
+c:\users\eatonadmin\source\repos\aerolok\aerolok\obj\Release\netcoreapp2.0\aerolok.AssemblyInfoInputs.cache
+c:\users\eatonadmin\source\repos\aerolok\aerolok\obj\Release\netcoreapp2.0\aerolok.AssemblyInfo.cs
+c:\users\eatonadmin\source\repos\aerolok\aerolok\obj\Release\netcoreapp2.0\aerolok.dll
+c:\users\eatonadmin\source\repos\aerolok\aerolok\obj\Release\netcoreapp2.0\aerolok.pdb
+c:\users\eatonadmin\source\repos\aerolok\aerolok\obj\Release\netcoreapp2.0\aerolok.csprojAssemblyReference.cache
