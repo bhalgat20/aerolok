@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -27,9 +28,10 @@ namespace aerolok.Controllers
 
         // POST api/values
         [HttpPost]
-        public string Post([FromBody]string value)
+        public string Post([FromBody]string baseData)
         {
-            return RestAPICall(value).Result;
+            var data = baseData;
+            return data != null ? data : "Empty Data";
         }
 
         // PUT api/values/5
@@ -46,7 +48,7 @@ namespace aerolok.Controllers
 
         private async Task<string> RestAPICall(string path)
         {
-            var filepath = "input/mycontainer/"+path;
+            var filepath = "input/mycontainer/" + path;
             var scoreRequest = new
             {
                 GlobalParameters = new Dictionary<string, string>() {
